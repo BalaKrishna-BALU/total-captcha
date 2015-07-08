@@ -6,6 +6,9 @@
 	"scripts": {
 		"test": "node test.js"
 	},
+	"dependencies": {
+		"canvas": "~1.1.6"
+	},
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/BalaKrishna-BALU/total-captcha.git"
