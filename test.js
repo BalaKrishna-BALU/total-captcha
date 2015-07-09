@@ -1,4 +1,4 @@
-var captcha = require("./index");
+var captcha = require("total-captcha");
 var obj = {
 	"mode" : 2,
 	"length" : 6
