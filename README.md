@@ -32,7 +32,7 @@ console.log("resultant", resultant);
 $ git clone https://github.com/BalaKrishna-BALU/total-captcha.git
 $ cd total-captcha
 $ sudo npm install
-$ node app.js
+$ node test.js
 ```
 
 ## license
