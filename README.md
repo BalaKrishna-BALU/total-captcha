@@ -18,7 +18,7 @@ $ npm install total-captcha
 //captcha 
 var captcha = require("total-captcha");
 var obj = {
-	"mode" : 3,
+	"mode" : 3, // 1 - Numeric captcha, 2 - alphabetical captcha, 3 - alphanumeric captcha
 	"length" : 5
 };
 var resultant = captcha.createCaptcha(obj);
@@ -37,7 +37,7 @@ $ node test.js
 
 ## output
 
-Generates an array consisting captcha code and base64 encoded captcha image.
+generates an array consisting captcha code and base64 encoded captcha image.
 
 ## license
 
