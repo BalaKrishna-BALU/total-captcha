@@ -35,6 +35,10 @@ $ sudo npm install
 $ node test.js
 ```
 
+## output
+
+Generates an array consisting captcha code and base64 encoded captcha image.
+
 ## license
 
 MIT
