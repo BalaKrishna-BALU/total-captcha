@@ -1,6 +1,6 @@
 {
 	"name": "total-captcha",
-	"version": "0.1.0",
+	"version": "1.0.4",
 	"description": "Generates captcha based on user input.",
 	"main": "index.js",
 	"scripts": {
@@ -13,7 +13,7 @@
 		"type": "git",
 		"url": "git+https://github.com/BalaKrishna-BALU/total-captcha.git"
 	},
-	"keywords": ["captcha", "canvas", "node", "cairo", "alphanumeric", "captcha", "numeric", "captcha"],
+	"keywords": ["captcha", "alphanumeric", "numeric", "node", "cairo", "canvas"],
 	"author": "Bala Krishna",
 	"license": "MIT",
 	"bugs": {
