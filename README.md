@@ -2,7 +2,7 @@
 
 A captcha module for nodejs based on [node-canvas](https://www.npmjs.org/package/canvas)
 
-## note
+## Note
 
 - install Cairo first, For system-specific installation view the  <a href="https://github.com/LearnBoost/node-canvas/wiki/_pages">Wiki</a> from [node-canvas](https://www.npmjs.org/package/canvas)
 
@@ -26,7 +26,7 @@ console.log("resultant", resultant);
 
 ```
 
-## test
+## Test
 
 ```bash
 $ git clone https://github.com/BalaKrishna-BALU/total-captcha.git
@@ -35,10 +35,10 @@ $ sudo npm install
 $ node test.js
 ```
 
-## output
+## Output
 
-generates an array consisting captcha code and base64 encoded captcha image.
+Generates an array consisting captcha code and base64 encoded captcha image.
 
-## license
+## License
 
 MIT
