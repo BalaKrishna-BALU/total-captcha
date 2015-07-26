@@ -12,7 +12,7 @@ A captcha module for nodejs based on [node-canvas](https://www.npmjs.org/package
 $ npm install total-captcha
 ```
 
-## Useage
+## Usage
 
 ```javascript
 //captcha 
