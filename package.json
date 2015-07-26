@@ -1,6 +1,6 @@
 {
   "name": "total-captcha",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Generates captcha based on user input.",
   "main": "index.js",
   "scripts": {
